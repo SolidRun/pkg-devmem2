@@ -1,3 +1,9 @@
+devmem2 (0.0-0ubuntu2+sr1) bionic; urgency=high
+
+  * support cross-compiling
+
+ -- Josua Mayer <josua@solid-run.com>  Fri, 17 Jun 2022 08:52:34 +0200
+
 devmem2 (0.0-0ubuntu2) bionic; urgency=high
 
   * No change rebuild to pick up -fPIE compiler default
