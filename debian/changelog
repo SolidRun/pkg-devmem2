@@ -1,0 +1,11 @@
+devmem2 (0.0-0ubuntu2) bionic; urgency=high
+
+  * No change rebuild to pick up -fPIE compiler default
+
+ -- Balint Reczey <rbalint@ubuntu.com>  Tue, 03 Apr 2018 12:19:15 +0000
+
+devmem2 (0.0-0ubuntu1) maverick; urgency=low
+
+  * Initial release (LP: #607752)
+
+ -- Ricardo Salveti de Araujo <ricardo.salveti@canonical.com>  Mon, 13 Sep 2010 02:18:47 -0300
